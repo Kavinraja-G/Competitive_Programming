@@ -4,15 +4,7 @@
 
 int main()
 {
-    int t;
-    scanf("%d",&t);
-    for(int i=0;i<t;i++)
-    {
-        int l,w,h;
-        scanf("%d %d %d",&l,&w,&h);
-        if(h<41)
-        {
-            printf("%d\n",(l*w*h));
-        }
-    }
+    int a = 9,b=9,c=20;
+    a = ++b + ++c + a++;
+    printf("%d",a);
 }

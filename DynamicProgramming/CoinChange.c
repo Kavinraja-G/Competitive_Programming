@@ -23,8 +23,8 @@ int countWays(int values[], int size, int amount)
 
 int main()
 {
-    int values[] = {1,2,3};
+    int values[] = {2,4,6};
     int size = sizeof(values)/sizeof(values[0]);
-    int count = countWays(values, size, 5);
+    int count = countWays(values, size, 20);
     printf("%d",count);
 }

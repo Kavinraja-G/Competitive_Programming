@@ -4,7 +4,34 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DiagonalSumInTree",
+            "request": "launch",
+            "mainClass": "TreeProblems.DiagonalSumInTree",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sumOfLeftLeafs",
+            "request": "launch",
+            "mainClass": "TreeProblems.sumOfLeftLeafs",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sumofAllNodesWithChildX",
+            "request": "launch",
+            "mainClass": "TreeProblems.sumofAllNodesWithChildX",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "TreeProblems.Solution",
+            "projectName": "Algorithms_a116acb6"
+        },
         {
             "name": "(Windows) Attach",
             "type": "cppvsdbg",

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - sumOfHeightsAllNode",
+            "request": "launch",
+            "mainClass": "TreeProblems.sumOfHeightsAllNode",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - swapNodes",
+            "request": "launch",
+            "mainClass": "TreeProblems.swapNodes",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxSumPathFromLeafToRoot",
+            "request": "launch",
+            "mainClass": "TreeProblems.maxSumPathFromLeafToRoot",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestPathSum",
+            "request": "launch",
+            "mainClass": "TreeProblems.LongestPathSum",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DiagonalSumInTree",
             "request": "launch",
             "mainClass": "TreeProblems.DiagonalSumInTree",

@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - printingAncestorsOfaGivenNode",
+            "request": "launch",
+            "mainClass": "TreeProblems.printingAncestorsOfaGivenNode",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - printCommonPathToLCA",
+            "request": "launch",
+            "mainClass": "TreeProblems.printCommonPathToLCA",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CommonNodeFromPathToLCA",
+            "request": "launch",
+            "mainClass": "TreeProblems.CommonNodeFromPathToLCA",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - topViewTree",
+            "request": "launch",
+            "mainClass": "TreeProblems.topViewTree",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LCA_FIndingDistance",
+            "request": "launch",
+            "mainClass": "TreeProblems.LCA_FIndingDistance",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LCA_Finding",
+            "request": "launch",
+            "mainClass": "TreeProblems.LCA_Finding",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - subTreeWithGivenSum",
+            "request": "launch",
+            "mainClass": "TreeProblems.subTreeWithGivenSum",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - sumOfHeightsAllNode",
             "request": "launch",
             "mainClass": "TreeProblems.sumOfHeightsAllNode",

@@ -1,3 +1,5 @@
+package Sorting.MergeSort.src;
+
 import java.util.Scanner;
 public class Solution {
     static void merge(int[] arr, int l, int mid, int r)

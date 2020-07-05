@@ -1,3 +1,5 @@
+package Sorting.QuickSortOptimised.src;
+
 import java.util.Scanner;
 public class Solution {
     static void swap(int[] arr, int a, int b)

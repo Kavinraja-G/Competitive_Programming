@@ -52,7 +52,6 @@ public class Qheap {
     static Scanner s = new Scanner(System.in);
     public static void main(String[] args)
     {
-
         ArrayList<Integer> heap = new ArrayList<>();
         heap.add(0);
         int queries = s.nextInt();

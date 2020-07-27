@@ -1,4 +1,4 @@
-package TreeProblems;
+package Algorithms.TreeProblems;
 
 import java.util.ArrayList;
 

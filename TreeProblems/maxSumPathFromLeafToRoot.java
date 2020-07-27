@@ -1,4 +1,4 @@
-package TreeProblems;
+package Algorithms.TreeProblems;
 
 public class maxSumPathFromLeafToRoot {
     static int maxSum = Integer.MIN_VALUE;

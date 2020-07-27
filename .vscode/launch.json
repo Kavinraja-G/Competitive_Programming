@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - digitPairss",
+            "request": "launch",
+            "mainClass": "Codevita.digitPairss",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - monkey",
+            "request": "launch",
+            "mainClass": "Codevita.monkey",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - swayamvar",
+            "request": "launch",
+            "mainClass": "Codevita.swayamvar",
+            "projectName": "Algorithms_a116acb6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - printingAncestorsOfaGivenNode",
             "request": "launch",
             "mainClass": "TreeProblems.printingAncestorsOfaGivenNode",
